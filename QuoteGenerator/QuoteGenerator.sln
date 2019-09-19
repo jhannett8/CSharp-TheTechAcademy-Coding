@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteGenerator", "QuoteGenerator\QuoteGenerator.csproj", "{66693A06-3581-401E-92CA-82DE78973DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66693A06-3581-401E-92CA-82DE78973DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66693A06-3581-401E-92CA-82DE78973DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66693A06-3581-401E-92CA-82DE78973DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66693A06-3581-401E-92CA-82DE78973DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B936448-F528-4213-AAF2-E1E20387A671}
+	EndGlobalSection
+EndGlobal

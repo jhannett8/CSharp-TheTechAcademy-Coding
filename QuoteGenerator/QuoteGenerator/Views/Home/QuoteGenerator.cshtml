@@ -1,0 +1,14 @@
+﻿@using QuoteGenerator.Controllers
+@{
+    ViewData["Title"] = "QuoteGenerator";
+}
+
+<div class="card ">
+    <center><h1 class="center m-0">QuoteGenerator</h1></center>
+    <center><h3>We have calculated your quote from the information you have provided.</h3></center>
+    @{
+        var data = ViewBag.Message;
+    }
+    <br> <center><h3>Your Quote Estimate: $@data.Quote </h3></center>
+</div>
+
